@@ -1,0 +1,9 @@
+﻿.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfstate.d/
+
+*.tfvars
+*.tfvars.json
+
+*.log
