@@ -6,7 +6,5 @@ terraform.tfstate.d/
 *.tfvars
 *.tfvars.json
 
-!dev.tfvars
-!prod.tfvars
 
 *.log
